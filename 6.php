@@ -1,5 +1,6 @@
 <?php
 
+
 function num($num)
 {
    if (!is_numeric($num)){
